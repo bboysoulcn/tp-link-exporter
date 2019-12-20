@@ -23,4 +23,5 @@ config.ini中password_hash这个字段
 sleep_time表示多久向路由器获取一次数据，因为每次获取数据都要执行登陆操作，所以建议时间为30s
 
 bug反馈: bboysoulcn@gmail.com
+
 tplink软件版本：1.0.0 Build 20180911 Rel.44265
